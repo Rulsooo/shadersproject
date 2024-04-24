@@ -1,0 +1,17 @@
+Il ya 6 shaders sur la scène.
+
+Le 1er est l'effet pixellisé dans la télé sur le mur de droite.
+
+Le 2ème est l'effet pulsion sur la chaise (il y a 2 variantes en plus et le commentaire est dans le shader "pulsion" du dossier "Shaders".
+
+Le 3ème est l'effet hologramme sur les 2 pots de fleurs (j'ai utilisé une texture différente sur chaque pot de fleur donc il y a 2 rendu différents mais le shader est le même).
+Le commentaire est dans le shader "hologram 1" du dossier "Shaders"
+
+Le 4ème est l'effet de désintégration (dissolve) sur le frigo.
+
+Le 5ème est l'effet boule électrique sur le logo Unity à côté du frigo.
+Il y a 3 shaders différent, un pour gérer le coeur de la boule de foudre, le second pour gérer les éclairs et le troisième c'est pour gérer la rotation.
+Le shader "rotation" m'a retourné le cerveau, ce 5ème shader est mon shader préféré.
+
+Le 6ème est une variante de l'effet pulsion, c'est l'effet brillant, il est sur les murs, le sol, le plafond, par rapport à où tu te places dans la scène, l'effet brillant se vera.
+Je t'invite à te placer derrière la télé pour voir toute la cuisine briller.
